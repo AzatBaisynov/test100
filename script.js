@@ -62,4 +62,5 @@
 // num = num.toString()
 // num = num + ""
 // console.log(typeof num)
+const a = 45323
 
